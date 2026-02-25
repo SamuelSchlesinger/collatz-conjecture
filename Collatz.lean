@@ -2,6 +2,10 @@ import Collatz.Defs
 import Collatz.Basic
 import Collatz.Descent
 import Collatz.Cycle
+import Collatz.Structural
 import Collatz.PowersOfTwo
 import Collatz.SmallCases
+import Collatz.Residue
 import Collatz.Conjecture
+import Collatz.Inverse
+import Collatz.Tree
