@@ -9,3 +9,7 @@ import Collatz.Residue
 import Collatz.Conjecture
 import Collatz.Inverse
 import Collatz.Tree
+import Collatz.IterateFormula
+import Collatz.CycleEquation
+import Collatz.Steiner
+import Collatz.NoCycles
